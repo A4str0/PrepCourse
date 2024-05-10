@@ -1,2 +1,3 @@
 # PrepCourse
-He de hacer el curso de programación.
+yo no voy a escribir eso
+sds
